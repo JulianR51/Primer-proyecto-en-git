@@ -1,0 +1,27 @@
+div {
+    background-color: rgb(116, 252, 206);
+}
+
+ol {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#titulo-general{
+    color: blue;
+}
+.parrafo-contenido{
+    font-style: italic;
+    font-family: fantasy;
+    color: deeppink; 
+
+}
+#contenedor{
+    background-color: aquamarine;
+padding: 20px;
+margin: 20px;
+
+}
+#parrafo{
+    background-color: black;
+    color: white;
+    padding: 50px;
+}

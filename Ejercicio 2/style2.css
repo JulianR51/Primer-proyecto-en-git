@@ -1,0 +1,35 @@
+#contenedor-1{
+    background-color: black;
+    padding: 20px;
+    margin: 20px;
+}
+#titulo{
+    background-color: darkorange;
+    padding: 50px;
+    margin: 50px;
+    color: white;
+    font-family: fantasy;
+    text-align: center;
+}
+#contenedor-2{
+    background-color: black;
+    padding: 20px;
+    margin: 20px;
+}
+#instagram{
+    color: darkorange;
+    font-family: fantasy;
+    font-size:small;
+    margin-left: 50px;
+}
+#contenedor-3{
+    display: inline-block;
+    padding: 20px;
+    margin: 20px;
+    background-color: black;  
+}
+
+#contenedor-3 img{
+    width: 25%;
+    padding: 20px;
+}
